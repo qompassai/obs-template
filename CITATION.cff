@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "OBS Studio template"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - name: "Qompass AI"
+license: "Apache-2.0"
+repository-code: "https://github.com/qompassai/obs-template"
+abstract: "Template for Qompass AI OBS Studio projects."
